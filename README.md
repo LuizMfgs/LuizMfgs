@@ -18,7 +18,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"/> `01.` SOBRE_MIM.exe
+## 🛰️ `01.` SOBRE_MIM.exe
 
 <table>
 <tr>
@@ -47,7 +47,7 @@ status:      "Estagiario de TI @ ATI - Agencia Estadual de
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/gauravghongde/social-icons@master/SVG/Colored/SVG/GitHub.svg" width="90"/>
+<img src="https://cdn.simpleicons.org/github/E5E9F0" width="70"/>
 
 <br/>
 
@@ -63,7 +63,7 @@ status:      "Estagiario de TI @ ATI - Agencia Estadual de
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="32"/> `02.` TECH_STACK.sys
+## ⚡ `02.` TECH_STACK.sys
 
 <div align="center">
 
@@ -93,7 +93,7 @@ status:      "Estagiario de TI @ ATI - Agencia Estadual de
 
 <br/>
 
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32"/> `03.` FERRAMENTAS.dll
+## 🛠️ `03.` FERRAMENTAS.dll
 
 <div align="center">
 
@@ -111,7 +111,7 @@ status:      "Estagiario de TI @ ATI - Agencia Estadual de
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32"/> `04.` PROJETOS.db
+## 📁 `04.` PROJETOS.db
 
 <table width="100%">
 <tr>
@@ -158,7 +158,7 @@ Plataforma de analise de vendas completa: ingestao transacional, data warehouse 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/L1R1tvL9vzTZpHFDp2/giphy.gif" width="32"/> `05.` OBJETIVOS_ATUAIS.log
+## 🎯 `05.` OBJETIVOS_ATUAIS.log
 
 ```bash
 luiz@core:~$ cat objetivos_2026.log
@@ -175,7 +175,7 @@ luiz@core:~$ _
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="32"/> `06.` SYSTEM_METRICS.stats
+## 📊 `06.` SYSTEM_METRICS.stats
 
 <div align="center">
 
@@ -184,7 +184,7 @@ luiz@core:~$ _
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizMfgs&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2E88&currStreakLabel=00F0FF"/>
+<img src="https://streak-stats.demolab.com/?user=LuizMfgs&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2E88&currStreakLabel=00F0FF"/>
 
 <br/>
 
@@ -194,7 +194,7 @@ luiz@core:~$ _
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/artj92V8o75VPL7AeQ/giphy.gif" width="32"/> `07.` TROPHY_CASE.array
+## 🏆 `07.` TROPHY_CASE.array
 
 <div align="center">
 
@@ -204,7 +204,7 @@ luiz@core:~$ _
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32"/> `08.` CONTRIBUTION_MATRIX.snake
+## 🐍 `08.` CONTRIBUTION_MATRIX.snake
 
 <div align="center">
 
@@ -216,7 +216,7 @@ luiz@core:~$ _
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> `09.` COMM_CHANNELS.net
+## 📡 `09.` COMM_CHANNELS.net
 
 <div align="center">
 
