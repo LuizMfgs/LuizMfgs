@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=LUIZ%20MIGUEL%20SILVA&fontSize=46&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2F%2F%20Data%20%2F%2F%20Automation%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:24243e,100:302B63&height=260&section=header&text=LUIZ%20MIGUEL%20FERNANDES&fontSize=42&fontColor=E5E9F0&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%2F%2F%20Data%20%2F%2F%20Automation%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
@@ -40,7 +40,8 @@ focus:
   - Pipelines de dados de ponta a ponta (ETL - Warehouse - BI)
   - Produtos web/mobile enxutos, do MVP a entrega
 
-status:      "Buscando Oportunidades"
+status:      "Estagiario de TI @ ATI - Agencia Estadual de
+              Tecnologia da Informacao"
 ```
 
 </td>
@@ -134,7 +135,9 @@ Sistema que auxilia a catalogar e gerenciar o aluguel e devolucao de livros de u
 Extrai dados de mercado via API, valida qualidade dos dados, armazena historico em PostgreSQL, automatiza a execucao com Airflow e expoe um dashboard interativo.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### Sales Data Warehouse & Analytics
 > Plataforma de BI executiva
@@ -233,6 +236,6 @@ luiz@core:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
 
-<sub>(c) 2026 Luiz Miguel Fernandes Gomes da Silva</sub>
+<sub>(c) 2026 Luiz Miguel Fernandes Gomes da Silva.</sub>
 
 </div>
