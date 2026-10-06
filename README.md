@@ -117,12 +117,34 @@ status:      "Estagiario de TI @ ATI - Agencia Estadual de
 <tr>
 <td width="50%" valign="top">
 
-### Sistema de Emprestimo de Livros
-> Biblioteca escolar - catalogacao e gestao de acervo
+### Sales Data Warehouse & Analytics
+> Plataforma de BI executiva
 
-`Google Sheets` `Python` `PostgreSQL` `BigQuery` `HTML+Jinja2` `Railway`
+`Python` `PostgreSQL` `SQLAlchemy` `Pandas` `Docker` `Streamlit` `Power BI`
 
-Sistema que auxilia a catalogar e gerenciar o aluguel e devolucao de livros de uma biblioteca escolar, com dashboards e analise de causa raiz sobre inconsistencias no acervo.
+Plataforma de analise de vendas completa: ingestao transacional, data warehouse dimensional, pipelines de ETL automatizados e dashboards executivos.
+
+</td>
+<td width="50%" valign="top">
+
+### MLOps/LLMOps RAG - Contratos Financeiros
+> Pipeline de MLOps/LLMOps para RAG
+
+`Python` `MLflow` `scikit-learn` `pytest` `Databricks` `CI/CD (GitHub Actions)`
+
+Pipeline de MLOps/LLMOps para um sistema de RAG (Retrieval-Augmented Generation) aplicado a analise de contratos financeiros, com rastreamento de experimentos, testes automatizados e integracao continua.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Quant Analyze - Otimizacao de Portfolio
+> Pipeline quantitativo ponta a ponta
+
+`Python` `LightGBM` `arch (GARCH)` `PyPortfolioOpt` `scikit-learn` `QuantStats` `yfinance`
+
+Pipeline quantitativo que ingere dados de mercado, preve retornos esperados, executa otimizacao de portfolio e emite sinais de rebalanceamento sensiveis a custos.
 
 </td>
 <td width="50%" valign="top">
@@ -139,12 +161,12 @@ Extrai dados de mercado via API, valida qualidade dos dados, armazena historico 
 <tr>
 <td colspan="2" valign="top">
 
-### Sales Data Warehouse & Analytics
-> Plataforma de BI executiva
+### Sistema de Emprestimo de Livros
+> Biblioteca escolar - catalogacao e gestao de acervo
 
-`Python` `PostgreSQL` `SQLAlchemy` `Pandas` `Docker` `Streamlit` `Power BI`
+`Google Sheets` `Python` `PostgreSQL` `BigQuery` `HTML+Jinja2` `Railway`
 
-Plataforma de analise de vendas completa: ingestao transacional, data warehouse dimensional, pipelines de ETL automatizados e dashboards executivos.
+Sistema que auxilia a catalogar e gerenciar o aluguel e devolucao de livros de uma biblioteca escolar, com dashboards e analise de causa raiz sobre inconsistencias no acervo.
 
 </td>
 </tr>
@@ -158,24 +180,7 @@ Plataforma de analise de vendas completa: ingestao transacional, data warehouse 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🎯 `05.` OBJETIVOS_ATUAIS.log
-
-```bash
-luiz@core:~$ cat objetivos_2026.log
-
-[OK] Atuar como estagiario de suporte e QA em ambiente de TI governamental
-[OK] Consolidar pipelines de dados end-to-end (extracao - warehouse - BI)
-[####################......] Aprofundar engenharia de dados (Airflow, dbt, cloud warehouses)
-[###############.........] Evoluir em arquitetura backend escalavel (Node.js / Spring Boot)
-[##########..............] Explorar oportunidades em Data Engineering / Analytics Engineering
-[.........................] Contribuir com projetos open-source de dados e automacao
-
-luiz@core:~$ _
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 📊 `06.` SYSTEM_METRICS.stats
+## 📊 `05.` SYSTEM_METRICS.stats
 
 <div align="center">
 
@@ -194,6 +199,16 @@ luiz@core:~$ _
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+## 🏆 `06.` TROPHY_CASE.array
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LuizMfgs&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ## 🐍 `07.` CONTRIBUTION_MATRIX.snake
 
 <div align="center">
@@ -201,6 +216,8 @@ luiz@core:~$ _
 <img src="https://raw.githubusercontent.com/LuizMfgs/LuizMfgs/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
+
+> A animacao da cobra e gerada automaticamente via GitHub Actions (Platane/snk). Configure o workflow no seu perfil para ativa-la - instrucoes no rodape.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -224,6 +241,6 @@ luiz@core:~$ _
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
 
-<sub>(c) 2026 Luiz Miguel Fernandes Gomes da Silva.</sub>
+<sub>(c) 2026 Luiz Miguel Fernandes Gomes da Silva - Compilado com cafe, Python e um pouco de neon.</sub>
 
 </div>
