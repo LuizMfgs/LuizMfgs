@@ -208,8 +208,6 @@ Sistema que auxilia a catalogar e gerenciar o aluguel e devolucao de livros de u
 
 </div>
 
-> A animacao da cobra e gerada automaticamente via GitHub Actions (Platane/snk). Configure o workflow no seu perfil para ativa-la - instrucoes no rodape.
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📡 `07.` COMM_CHANNELS.net
