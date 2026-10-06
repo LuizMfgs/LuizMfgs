@@ -230,6 +230,6 @@ Sistema que auxilia a catalogar e gerenciar o aluguel e devolucao de livros de u
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
 
-<sub>(c) 2026 Luiz Miguel Fernandes Gomes da Silva - Compilado com cafe, Python e um pouco de neon.</sub>
+<sub>(c) 2026 Luiz Miguel Fernandes Gomes da Silva</sub>
 
 </div>
