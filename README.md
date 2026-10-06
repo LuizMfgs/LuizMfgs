@@ -199,17 +199,8 @@ Sistema que auxilia a catalogar e gerenciar o aluguel e devolucao de livros de u
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🏆 `06.` TROPHY_CASE.array
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LuizMfgs&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🐍 `07.` CONTRIBUTION_MATRIX.snake
+## 🐍 `06.` CONTRIBUTION_MATRIX.snake
 
 <div align="center">
 
@@ -221,7 +212,7 @@ Sistema que auxilia a catalogar e gerenciar o aluguel e devolucao de livros de u
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📡 `08.` COMM_CHANNELS.net
+## 📡 `07.` COMM_CHANNELS.net
 
 <div align="center">
 
